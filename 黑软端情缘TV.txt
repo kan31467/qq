@@ -106,6 +106,29 @@ Q群810273966,
 你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 579172391你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 579172391我就是给你爆的，哈哈哈你这个是逼 QQ群 871838295你爆了也没有用的我群全部都是一锅端，你还在来我群把
 你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 579172391
 你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 579172391你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 579172391你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 871838295你爆了也没有用的我群全部都是一锅端，你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 871838295我就是给你爆的，哈哈哈你这个是逼 QQ群 871838295你爆了也没有用的我群全部都是一锅端，你还在来我群把
+🌸超清直播,#genre#
+辽宁卫视,http://116.138.193.39:8888/rtp/232.0.0.126:1234
+辽宁都市,http://116.138.193.39:8888/rtp/232.0.0.154:1234
+辽宁影视剧,http://116.138.193.39:8888/rtp/232.0.0.25:1234
+辽宁体育,http://116.138.193.39:8888/rtp/232.0.0.164:1234
+辽宁生活,http://116.138.193.39:8888/rtp/232.0.0.150:1234
+辽宁北方,http://116.138.193.39:8888/rtp/232.0.0.151:1234
+辽宁公共,http://116.138.193.39:8888/rtp/232.0.0.168:1234
+辽宁经济,http://116.138.193.39:8888/rtp/232.0.0.156:1234
+第一剧场,http://116.138.193.39:8888/rtp/232.0.0.29:1234
+怀旧剧场,http://116.138.193.39:8888/rtp/232.0.0.38:1234
+风云剧场,http://116.138.193.39:8888/rtp/232.0.0.45:1234
+风云足球,http://116.138.193.39:8888/rtp/232.0.0.52:1234
+风云音乐,http://116.138.193.39:8888/rtp/232.0.0.47:1234
+央视台球,http://116.138.193.39:8888/rtp/232.0.0.60:1234
+央视文化精品,http://116.138.193.39:8888/rtp/232.0.0.56:1234
+世界地理,http://116.138.193.39:8888/rtp/232.0.0.63:1234
+广西|罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
+广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
+广西贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
+广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
+广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 🌸北京电信,#genre#
 CCTV1HD,http://1.203.77.170:7788/udp/225.1.8.1:8008
 CCTV2HD,http://1.203.77.170:7788/udp/225.1.8.2:8084
@@ -906,6 +929,240 @@ TVB功夫臺,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經臺,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 麪包臺,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+🌸河北地方,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
+石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+大厂一套,http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+定州生活频道,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+定州新闻综合,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+衡水新闻综合,http://111.225.205.64:8081/964D4p2/800/live.m3u8
+涞水新闻频道,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+平泉综合频道,https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+河北农民,http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8
+邯郸新闻综合,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+衡水新闻综合,http://111.225.205.64:8081/964D4p2/800/live.m3u8
+承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
+承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+承德公共生活,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+涉县新闻综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+阜城综合频道,http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
+阜城经济频道,http://hbfc.chinashadt.com:2036/live/5.stream/playlist.m3u8
+枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+迁安新闻综合,https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+迁西综合频道,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+迁西综合频道,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+迁西农业频道,https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
+迁西农业频道,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
+霸州新闻频道,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
+霸州文化频道,http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
+霸州公共频道,http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
+霸州少儿频道,http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwliveqxzb.hebyun.com.cn/qinghe/qinghe.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
+沧县综合,http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+沧县二套,http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+青县新闻,https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
+青县新闻,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+定州新闻综合,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+定州新闻综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
+定州生活频道,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+定州生活频道,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
+涞水新闻频道,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+涞水新闻频道,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+清苑新闻频道,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
+清苑生活频道,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+望都综合频道,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+平泉综合频道,https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+平泉综合频道,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+双滦新闻频道,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+双滦影视频道,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+🌸浙江地方,#genre#
+[浙江]苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8zzhed
+[浙江]洞头综合频道,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8zzhed
+[浙江]缙云综合频道,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8zzhed
+[浙江]开化新闻综,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8zzhed
+[浙江]兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8zzhed
+[浙江]龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8zzhed
+[浙江]龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8zzhed
+[浙江]平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8zzhed
+[浙江]平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8zzhed
+[浙江]普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8zzhed
+[浙江]庆元综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8zzhed
+[浙江]衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed
+[浙江]上虞新商,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8zzhed
+[浙江]上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8zzhed
+[浙江]嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8zzhed
+[浙江]松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8zzhed
+[浙江]田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8zzhed
+[浙江]武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8zzhed
+[浙江]象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8zzhed
+[浙江]萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8zzhed
+[浙江]萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8zzhed
+[浙江]永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8zzhed
+[浙江]余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8zzhed
+[浙江]余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8zzhed
+[浙江]余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8zzhed
+[浙江]云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8zzhed
+杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+金华兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+金华武义综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+丽水青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+丽水庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+丽水松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+丽水遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+衢州开化综 ?,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+绍兴嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+温州永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+🌸潍坊广电,#genre#
+潍坊安丘频道,https://wfrtv-live-tz.wfcmw.cn/live/48-xsq-wfanqiu.m3u8
+潍坊百姓安康,https://wfrtv-live-tz.wfcmw.cn:81/live/50-hypd-bxakpd.m3u8
+潍坊滨海频道,https://wfrtv-live-tz.wfcmw.cn/live/11-xsq-wfbinhai.m3u8
+潍坊昌乐频道,https://wfrtv-live-tz.wfcmw.cn:82/live/44-xsq-wfchangle.m3u8
+潍坊昌邑频道,https://wfrtv-live-tz.wfcmw.cn/live/12-xsq-wfchangyi.m3u8
+潍坊党建频道,https://wfrtv-live-tz.wfcmw.cn/live/4-zwpd-wfdjpd.m3u8
+潍坊都市生活,https://wfrtv-live-tz.wfcmw.cn:82/live/57-hypd-dsshpd.m3u8
+潍坊坊子频道,https://wfrtv-live-tz.wfcmw.cn:81/live/55-xsq-wffangzi.m3u8
+潍坊妇联频道,https://wfrtv-live-tz.wfcmw.cn:81/live/26-zwpd-wfflpd.m3u8
+潍坊高新区频 ?,https://wfrtv-live-tz.wfcmw.cn:81/live/31-xsq-wfgaoxin.m3u8
+潍坊公安频道,https://wfrtv-live-tz.wfcmw.cn:81/live/20-zwpd-wfgapd.m3u8
+潍坊寒亭频道,https://wfrtv-live-tz.wfcmw.cn:81/live/47-xsq-wfhanting.m3u8
+潍坊花漾艺术,https://wfrtv-live-tz.wfcmw.cn:82/live/56-hypd-hyyspd.m3u8
+潍坊检察频 ?,https://wfrtv-live-tz.wfcmw.cn/live/5-zwpd-wfjcpd.m3u8
+潍坊交通频 ?,https://wfrtv-live-tz.wfcmw.cn:82/live/40-zwpd-wfjtpd.m3u8
+潍坊教育频道,https://wfrtv-live-tz.wfcmw.cn:82/live/22-hypd-wfjypd.m3u8
+潍坊金融频道,https://wfrtv-live-tz.wfcmw.cn:81/live/15-zpd-wfjrpd.m3u8
+潍坊经济开发区频道,https://wfrtv-live-tz.wfcmw.cn:81/live/43-xsq-wfjingkai.m3u8
+潍坊经济生活,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
+潍坊康养频道,https://wfrtv-live-tz.wfcmw.cn:82/live/35-hypd-wfkypd.m3u8
+潍坊奎文频道,https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8
+潍坊临朐频道,https://wfrtv-live-tz.wfcmw.cn:82/live/36-xsq-wflinqu.m3u8
+潍坊民政公益,https://wfrtv-live-tz.wfcmw.cn:82/live/38-zwpd-wfmzgypd.m3u8
+潍坊农业农村,https://wfrtv-live-tz.wfcmw.cn:81/live/32-hypd-wfnyncpd.m3u8
+潍坊企业 ?,https://wfrtv-live-tz.wfcmw.cn/live/10-hypd-qyjpd.m3u8
+潍坊汽车频道,https://wfrtv-live-tz.wfcmw.cn:81/live/33-hypd-qcpd.m3u8
+潍坊青少频道,https://wfrtv-live-tz.wfcmw.cn:81/live/18-hypd-wfqspd.m3u8
+潍坊青州频道,https://wfrtv-live-tz.wfcmw.cn:81/live/23-xsq-wfqingzhou.m3u8
+潍坊少儿频道,https://wfrtv-live-tz.wfcmw.cn:82/live/54-zpd-wfsrpd1.m3u8
+潍坊生殖健康,https://wfrtv-live-tz.wfcmw.cn:82/live/58-hypd-wfszzxpd.m3u8
+潍坊时代先锋,https://wfrtv-live-tz.wfcmw.cn/live/46-zwpd-wfsdxfpd.m3u8
+潍坊寿光频道,https://wfrtv-live-tz.wfcmw.cn/live/1-xsq-wfshouguang.m3u8
+潍坊书画频道,https://wfrtv-live-tz.wfcmw.cn:82/live/51-hypd-shpd.m3u8
+潍坊司法频道,https://wfrtv-live-tz.wfcmw.cn:81/live/21-zwpd-wfsfpd.m3u8
+潍坊体育频道,https://wfrtv-live-tz.wfcmw.cn:81/live/27-hypd-wftypd.m3u8
+潍坊通讯频道,https://wfrtv-live-tz.wfcmw.cn:81/live/29-hypd-wftxpd.m3u8
+潍坊潍城频道,https://wfrtv-live-tz.wfcmw.cn/live/30-xsq-wfweicheng.m3u8
+潍坊文旅频道,https://wfrtv-live-tz.wfcmw.cn:81/live/28-zwpd-wfwlpd.m3u8
+潍坊文明潍坊,https://wfrtv-live-tz.wfcmw.cn:82/live/45-zwpd-wmwfpd.m3u8
+潍坊文艺时尚,https://wfrtv-live-tz.wfcmw.cn:82/live/53-zpd-wysspd.m3u8
+潍坊峡山频道,https://wfrtv-live-tz.wfcmw.cn/live/2-xsq-wfxiashan.m3u8
+潍坊新时 ?,https://wfrtv-live-tz.wfcmw.cn:82/live/41-hypd-xsspd.m3u8
+潍坊医美频道,https://wfrtv-live-tz.wfcmw.cn:82/live/42-hypd-ympd.m3u8
+潍坊应急频 ?,https://wfrtv-live-tz.wfcmw.cn:81/live/25-zwpd-wfyjpd.m3u8
+潍坊影视综艺,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
+潍坊政务民生,https://wfrtv-live-tz.wfcmw.cn:81/live/34-zpd-wfzwmspd.m3u8
+潍坊政协频道,https://wfrtv-live-tz.wfcmw.cn/live/9-zwpd-wfzxpd.m3u8
+潍坊职业教育,https://wfrtv-live-tz.wfcmw.cn/live/16-hypd-wfzyjypd.m3u8
+潍坊中医康养,https://wfrtv-live-tz.wfcmw.cn/live/6-hypd-zykypd.m3u8
+潍坊诸城频道,https://wfrtv-live-tz.wfcmw.cn/live/24-xsq-wfzhucheng.m3u8
+潍坊住建频道,https://wfrtv-live-tz.wfcmw.cn:82/live/49-zwpd-wfzjpd.m3u8
 🌸台湾頻道,#genre#你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 810273966你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 810273966你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 810273966
 BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
@@ -8128,6 +8385,276 @@ WTB064亲临到府的房屋女业务,https://t21.cdn2020.com/video/m3u8/2023/03/
 与表妹的作业研讨会-夏禹熙,https://t22.cdn2020.com/video/m3u8/2023/05/28/d6bf0e45/index.m3u8
 清纯女儿遭兽父侵人-夏禹熙,https://t22.cdn2020.com/video/m3u8/2023/06/08/a5113a78/index.m3u8
 刺激战场-陈可欣,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/09/0174aa8c/index.m3u8
+🌸高清享受,#genre#
+Young coach seduced and fucked busty mature woman India Summermp4,https://vip1.slbfsl.com/20221016/mGB4OsHe/index.m3u8
+Tattooed  MILF Synthia Fixx gets assfucked from behindmp4,https://vip1.slbfsl.com/20221016/D5eWJFFH/index.m3u8
+娇妻肉宴,https://1080p.huyall.com/play/5eVRGMoe/index.m3u8
+回忆初体验,https://1080p.huyall.com/play/nel1glla/index.m3u8
+想要女朋友,https://1080p.huyall.com/play/yb8VNnle/index.m3u8
+玩火,https://s1.bfllvip.com/video/wanhuo/中字/index.m3u8
+性交易2,https://s1.bfllvip.com/video/xingjiaoyi2/中字/index.m3u8
+四大名妓,https://1080p.huyall.com/play/yb8VZLre/index.m3u8
+来来去去,https://1080p.huyall.com/play/Yer18Qkd/index.m3u8
+破旧山庄,https://1080p.huyall.com/play/YaOKMoQa/index.m3u8
+塔米的幻想,https://1080p.huyall.com/play/Xe0KV13d/index.m3u8
+性伴侣的品格,https://1080p.huyall.com/play/Ddw1mNMa/index.m3u8
+哥哥给我一个机会,https://1080p.huyall.com/play/nel1Qg1a/index.m3u8
+脱衣女仆,https://1080p.huyall.com/play/YerDQNKb/index.m3u8
+女保安,https://1080p.huyall.com/play/nelwKVrd/index.m3u8
+交缠,https://1080p.huyall.com/play/Rb4Z5Xne/index.m3u8
+利塔,https://1080p.huyall.com/play/lejrXo4e/index.m3u8
+相识,https://1080p.huyall.com/play/PdyjgrEe/index.m3u8
+一夜替身,https://1080p.huyall.com/play/nel1oKja/index.m3u8
+爱恨龙卷风,https://1080p.huyall.com/play/1aMGl3Bd/index.m3u8
+爱情誓言,https://1080p.huyall.com/play/5eVRxA1e/index.m3u8
+深浅行动,https://1080p.huyall.com/play/Xe0KNW5d/index.m3u8
+打底裤狂热,https://1080p.huyall.com/play/yb8VnQre/index.m3u8
+寸止居酒屋,https://1080p.huyall.com/play/1aKDNorb/index.m3u8
+卷毛直播妹,https://1080p.huyall.com/play/9aApzOle/index.m3u8
+新任女秘书,https://1080p.huyall.com/play/DbDvDNBe/index.m3u8
+灼热之舌,https://1080p.huyall.com/play/1aKDox8b/index.m3u8
+绿帽人妻,https://1080p.huyall.com/play/9b6Qw4Qa/index.m3u8
+婶子,https://1080p.huyall.com/play/nel1yPla/index.m3u8
+触摸,https://1080p.huyall.com/play/9b6QwmRa/index.m3u8
+金秘书,https://1080p.huyall.com/play/yb8VrGoe/index.m3u8
+姐夫的秘密,https://1080p.huyall.com/play/rb2MlwAa/index.m3u8
+pondo082419_890 朝ゴミ出しする近所-彩月あかり,https://z100.cdn2020.com/video/m3u8/2020/07/25/2cec522d/index.m3u8
+n0946 橋本美帆変則FUCKに驚愕,https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
+n1150  鬼逝 - 川野杏樹,https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
+n0998  鬼逝-橘涼香,https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
+n1183 Wカン 中山美憂 園田ありさ,https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
+Carib-012318-589 視界侵入-立花瑠莉,https://z100.cdn2020.com/video/m3u8/2020/06/28/154d677d/index.m3u8
+n1128 鬼逝 - 園田ありさ,https://z100.cdn2020.com/video/m3u8/2020/06/25/bfa72078/index.m3u8
+CWPBD-82 密着度120%-みづなれい,https://z100.cdn2020.com/video/m3u8/2020/06/23/77a3ba30/index.m3u8
+heyzo_1703 3本連続-天音りん,https://z100.cdn2020.com/video/m3u8/2020/06/21/c92d1320/index.m3u8
+heyzo_0492 精子連続注入-木村つな,https://z100.cdn2020.com/video/m3u8/2020/06/19/2e53afd7/index.m3u8
+heyzo_1934 こってり濃厚激SEX -小野寺梨紗,https://z100.cdn2020.com/video/m3u8/2020/05/24/5ec1542f/index.m3u8
+n0814 悠希めい東熱流嬲カン発狂,https://z100.cdn2020.com/video/m3u8/2020/05/21/5e0355fb/index.m3u8
+精子興奮する-みほの,https://z100.cdn2020.com/video/m3u8/2020/05/20/3a4ad3ea/index.m3u8
+朝ゴミ出しする近所 双葉みお,https://z100.cdn2020.com/video/m3u8/2020/05/21/61f04e74/index.m3u8
+小衣くるみがぼくのお嫁さん,https://z100.cdn2020.com/video/m3u8/2020/04/17/3acab6b9/index.m3u8
+110119-001-carib 中出しセックス-吉岡蓮美,https://z100.cdn2020.com/video/m3u8/2019/12/05/481df844/index.m3u8
+調教してください-古瀬玲,https://z100.cdn2020.com/video/m3u8/2019/12/02/33b0fa7f/index.m3u8
+072619-969-carib すみれ美香が僕のプレイを褒め,https://z100.cdn2020.com/video/m3u8/2019/11/30/06702386/index.m3u8
+CWPBD-28 柳田やよい,https://z100.cdn2020.com/video/m3u8/2019/11/28/f8c129f2/index.m3u8
+CWPBD-37 羽月希,https://z100.cdn2020.com/video/m3u8/2019/11/28/cf5d130d/index.m3u8
+CWPBD-53 片桐えりりか,https://z100.cdn2020.com/video/m3u8/2019/11/28/dd99e4e0/index.m3u8
+n1396 東熱激情 雄汁流し込み特集 part8,https://z100.cdn2020.com/video/m3u8/2019/11/28/19b06d46/index.m3u8
+S2MBD-006 アンコール Vol.6-美祢藤コウ,https://z100.cdn2020.com/video/m3u8/2019/11/26/e8ce7a72/index.m3u8
+070417-455-carib 朝桐光だったらめちゃ,https://z100.cdn2020.com/video/m3u8/2019/09/13/95f5e67c/index.m3u8
+IPZ-676 パイパンまこかぱぁ-天海つばさ,https://z100.cdn2020.com/video/m3u8/2019/09/03/1c050665/index.m3u8
+CWPBD-78 春日由衣のJAPORN初降臨,https://z100.cdn2020.com/video/m3u8/2019/09/03/7066ee15/index.m3u8
+060218_695-1pon 極上3穴中出し-朝桐光,https://z100.cdn2020.com/video/m3u8/2019/08/23/a393deb0/index.m3u8
+120111_227-1pon グラマラス No.25 美咲結衣,https://z100.cdn2020.com/video/m3u8/2019/08/23/f76a3696/index.m3u8
+030315_037-1pon 前彷徨う潮姫-前田陽菜 ,https://z100.cdn2020.com/video/m3u8/2019/08/17/d5a9d839/index.m3u8
+ABP-408 上原瑞穂无码流出,https://z100.cdn2020.com/video/m3u8/2019/08/12/65be5abc/index.m3u8
+HEYZO_0682 若奥様は元ヤンキー-百合川さら,https://z100.cdn2020.com/video/m3u8/2019/08/08/e5176246/index.m3u8
+061715_01-10mu  遠山雪菜,https://z100.cdn2020.com/video/m3u8/2019/08/06/be9b1731/index.m3u8
+ABP-588 熊倉しょうこ无码流出,https://z100.cdn2020.com/video/m3u8/2019/08/04/08e177af/index.m3u8
+050415-01-10mu 遠山雪菜,https://z100.cdn2020.com/video/m3u8/2019/08/03/b5cae98d/index.m3u8
+CWPBD-05 大塚咲,https://z100.cdn2020.com/video/m3u8/2019/08/02/46000728/index.m3u8
+CWPBD-29 星崎アンリ,https://z100.cdn2020.com/video/m3u8/2019/08/01/dc6de989/index.m3u8
+CWPBD-16 加護範子,https://z100.cdn2020.com/video/m3u8/2019/07/29/2227ee01/index.m3u8
+080416-353-1pon  夏パリピ乱交！,https://z100.cdn2020.com/video/m3u8/2019/07/27/69b1bebc/index.m3u8
+古川伊织流出,https://z100.cdn2020.com/video/m3u8/2019/07/21/1c46196d/index.m3u8
+112610-545-carib かなみ芽梨,https://z100.cdn2020.com/video/m3u8/2019/07/21/cfe39fee/index.m3u8
+082110-460-carib 愛する情熱-☆LUNA☆,https://z100.cdn2020.com/video/m3u8/2019/07/21/9e51f553/index.m3u8
+露营地变态女主管,https://1080p.huyall.com/play/lej19M4d/index.m3u8
+交换妻子,https://1080p.huyall.com/play/lej19M4d/index.m3u8
+极乐出租屋,https://1080p.huyall.com/play/Yer1orwd/index.m3u8
+回忆初体验,https://1080p.huyall.com/play/nel1glla/index.m3u8
+想要女朋友,https://1080p.huyall.com/play/yb8VNnle/index.m3u8
+婚礼当天失去的纯洁,https://1080p.huyall.com/play/9b6QvMza/index.m3u8
+交换情侣3,https://1080p.huyall.com/play/9aApxvze/index.m3u8
+新城妈妈,https://1080p.huyall.com/play/Ddw1lkMa/index.m3u8
+新婚交叉曲,https://1080p.huyall.com/play/rb2Mojja/index.m3u8
+我叫阿尔玛,https://1080p.huyall.com/play/PdyjDjWe/index.m3u8
+贪吃的三姐妹,https://1080p.huyall.com/play/lej1k15d/index.m3u8
+图霍格,https://1080p.huyall.com/play/Le3xRp4a/index.m3u8
+复仇轮回,https://1080p.huyall.com/play/pen1o5Ed/index.m3u8
+妹妹的味道,https://1080p.huyall.com/play/Ddw1Ap1a/index.m3u8
+变态女大学生,https://1080p.huyall.com/play/nel1VD1a/index.m3u8
+喜欢大家伙的女孩,https://1080p.huyall.com/play/9b6QM7Qa/index.m3u8
+他的PS搭档,https://1080p.huyall.com/play/RdG0AXye/index.m3u8
+甜蜜宝贝,https://1080p.huyall.com/play/YaOKGGga/index.m3u8
+母女主人,https://1080p.huyall.com/play/YaOKXOBa/index.m3u8
+重生之我不是舔狗,https://1080p.huyall.com/play/lej1g4ld/index.m3u8
+四人行,https://1080p.huyall.com/play/lej1ggYd/index.m3u8
+恋爱公主,https://1080p.huyall.com/play/Rb4Ovz1a/index.m3u8
+第三十四条法则,https://1080p.huyall.com/play/Yer173kd/index.m3u8
+危险室友,https://s3.bfengbf.com/video/weixianshiyou/HD/index.m3u8
+🌸传媒影业,#genre#
+SA国际传媒SAQP001外送员复仇送上比萨屌打,https://t21.cdn2020.com/video/m3u8/2023/01/24/15830caa/index.m3u8
+SA国际传媒SAQP019与青梅竹马激情相遇,https://t21.cdn2020.com/video/m3u8/2023/03/12/524487a7/index.m3u8
+SA国际传媒SAT0056玩大老二输了脱一件,https://t21.cdn2020.com/video/m3u8/2023/01/20/7b288399/index.m3u8
+SA国际传媒SAT0059想上游泳课却带错泳装,https://t21.cdn2020.com/video/m3u8/2023/01/27/6b677b3a/index.m3u8
+SA国际传媒SAT0062新年聚会的目的,https://t21.cdn2020.com/video/m3u8/2023/01/26/c9fd522d/index.m3u8
+SA国际传媒SAT0064阖家啪啪庆团贺EP1,https://t21.cdn2020.com/video/m3u8/2023/02/08/f4aef37a/index.m3u8
+SA国际传媒SAT0067阖家啪啪庆团圆EP2,https://t21.cdn2020.com/video/m3u8/2023/02/15/1538ff4b/index.m3u8
+SA国际传媒SAT0076超级公务员01,https://t21.cdn2020.com/video/m3u8/2023/04/04/85d27716/index.m3u8
+SA国际传媒SAT0077超级公务员02,https://t21.cdn2020.com/video/m3u8/2023/04/11/7cf68ef0/index.m3u8
+SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.com/video/m3u8/2023/01/31/d059ee38/index.m3u8
+阿珍爱上了阿强在一个借浴室洗澡的夜晚,https://t21.cdn2020.com/video/m3u8/2023/02/26/746f866a/index.m3u8
+爱豆传媒id5208温泉老板娘火热勾引健身教练-姚茜,https://t21.cdn2020.com/video/m3u8/2023/01/24/526f1fc9/index.m3u8
+爱豆传媒ID5210醉酒姐夫强上小姨子-芯怡,https://t21.cdn2020.com/video/m3u8/2023/02/05/98cc4c7c/index.m3u8
+爱豆传媒ID5211咖啡馆搭讪服务员调制浓情蜜液,https://t21.cdn2020.com/video/m3u8/2023/02/05/e94cc84a/index.m3u8
+爱豆传媒ID5214兄弟争房手足相残倒霉弟媳遭强奸,https://t21.cdn2020.com/video/m3u8/2023/02/13/c1c86c9d/index.m3u8
+爱豆传媒ID5215主治医生迷奸,https://t21.cdn2020.com/video/m3u8/2023/02/05/05bf6d9e/index.m3u8
+爱豆传媒ID5225自慰婚戒掉阴道粗屌挚友来相助,https://t21.cdn2020.com/video/m3u8/2023/02/26/04c0ae50/index.m3u8
+爱豆传媒ID5226狂飙之高齐强与陈书婷的风花雪月,https://t21.cdn2020.com/video/m3u8/2023/02/26/5350068c/index.m3u8
+爱豆传媒ID5229顶级时间管理老婆闺蜜极限偷情,https://t21.cdn2020.com/video/m3u8/2023/03/04/3a564435/index.m3u8
+爱豆传媒ID5247舔狗的逆袭黑丝学姐主动投怀送抱,https://t21.cdn2020.com/video/m3u8/2023/03/19/4696e6d8/index.m3u8
+爱豆传媒ID5252帮朋友勾引的少妇竟是自己老婆,https://t21.cdn2020.com/video/m3u8/2023/03/25/9fd751ea/index.m3u8
+爱豆传媒ID5260我和兄弟把姐姐给轮奸了-张琪琪,https://t21.cdn2020.com/video/m3u8/2023/03/31/0b7ec432/index.m3u8
+爱豆传媒ID5261狂飙之先亲程程后摸腿我是莽村李宏伟,https://t21.cdn2020.com/video/m3u8/2023/04/04/a63b88d9/index.m3u8
+爱豆传媒ID5262哥哥请操我吧,https://t21.cdn2020.com/video/m3u8/2023/04/04/97c5e95a/index.m3u8
+爱豆传媒ID5264我的炮友竟是我的嫂子,https://t21.cdn2020.com/video/m3u8/2023/04/06/e95a4b7c/index.m3u8
+爱豆传媒ID5267禽兽哥哥们趁妹妹熟睡强上3P,https://t21.cdn2020.com/video/m3u8/2023/04/11/60ac9521/index.m3u8
+爱神传媒EMG002变态哥哥强上妹妹止火,https://t21.cdn2020.com/video/m3u8/2023/03/05/c2b3b860/index.m3u8
+爱神传媒EMG003美团外卖员猛操抖音直播主,https://t21.cdn2020.com/video/m3u8/2023/03/05/a5715258/index.m3u8
+爱神传媒EMG013贫贱姐夫狠操小姨,https://t21.cdn2020.com/video/m3u8/2023/04/11/0b9fa22a/index.m3u8
+爱神传媒EMX-001护士想被病患巨屌塞满,https://t21.cdn2020.com/video/m3u8/2023/03/23/010d67f3/index.m3u8
+精东影业JD143童子军失去童子身,https://t21.cdn2020.com/video/m3u8/2023/04/18/4a3de4f0/index.m3u8
+精东影业JDBC009叫鸡叫到亲妹妹乱伦带妹上岸,https://t21.cdn2020.com/video/m3u8/2023/01/20/0a66c5a4/index.m3u8
+精东影业JDBC019趁爸妈不在家兄妹偷做爱,https://t21.cdn2020.com/video/m3u8/2023/02/15/08bad689/index.m3u8
+精东影业JDBC025粗心的小护士引狼入室,https://t21.cdn2020.com/video/m3u8/2023/02/28/1659aa60/index.m3u8
+精东影业JDBC030母子乱伦大中午被儿子硬上,https://t21.cdn2020.com/video/m3u8/2023/03/12/f55ba6f8/index.m3u8
+精东影业JDBC033逮到机会操上隔壁的傲娇婊子,https://t21.cdn2020.com/video/m3u8/2023/03/19/40d5d522/index.m3u8
+精东影业JDBC043家政婊子用奶子勾引我,https://t21.cdn2020.com/video/m3u8/2023/04/11/3cb01005/index.m3u8
+精东影业JDBC046伯父利诱我用身体报答养育之恩,https://t21.cdn2020.com/video/m3u8/2023/04/18/cb8b4ed7/index.m3u8
+精东影业JDBC049姐夫趁老婆不在强奸自闭小姨子,https://t21.cdn2020.com/video/m3u8/2023/04/24/b3fc04eb/index.m3u8
+精东影业JDKR011情趣风俗店,https://t21.cdn2020.com/video/m3u8/2023/02/28/3e961e5e/index.m3u8
+精东影业JDKR012爸爸活,https://t21.cdn2020.com/video/m3u8/2023/03/06/46618a18/index.m3u8
+精东影业JDKR013媚药家政妇,https://t21.cdn2020.com/video/m3u8/2023/03/06/6864b712/index.m3u8
+精东影业JDKR016教日本妹学中文,https://t21.cdn2020.com/video/m3u8/2023/03/12/a2404845/index.m3u8
+精东影业JDKR017口交专门店,https://t21.cdn2020.com/video/m3u8/2023/03/14/11073147/index.m3u8
+精东影业JDKR020大阪见网友,https://t21.cdn2020.com/video/m3u8/2023/03/31/b5fdb393/index.m3u8
+精东影业JDKR022上门精油按摩,https://t21.cdn2020.com/video/m3u8/2023/04/06/68efd191/index.m3u8
+精东影业JDKR023停水上门服务,https://t21.cdn2020.com/video/m3u8/2023/04/09/4947b019/index.m3u8
+精东影业JDKR027自慰室友,https://t21.cdn2020.com/video/m3u8/2023/03/29/f1bf91cb/index.m3u8
+精东影业JDKR029配对软件爸爸活,https://t21.cdn2020.com/video/m3u8/2023/04/13/92544c1d/index.m3u8
+精东影业JDKR030我的家庭健身教练,https://t21.cdn2020.com/video/m3u8/2023/04/14/3a8ccd5d/index.m3u8
+精东影业JDXYX026叛徒神器,https://t21.cdn2020.com/video/m3u8/2023/01/27/058929c7/index.m3u8
+精东影业JDYA018委屈少妇的NTR复仇,https://t21.cdn2020.com/video/m3u8/2023/03/22/3e816d17/index.m3u8
+精东影业JDYA024约到朋友的妈妈,https://t21.cdn2020.com/video/m3u8/2023/03/31/9d86baac/index.m3u8
+精东影业JDYL019老公把我送给上司,https://t21.cdn2020.com/video/m3u8/2023/01/26/e6fd79e6/index.m3u8
+精东影业JDYL020长屌叔叔总是对我疼爱有加,https://t21.cdn2020.com/video/m3u8/2023/01/26/e54fb8c5/index.m3u8
+精东影业JDYL022我和后妈的秘密2,https://t21.cdn2020.com/video/m3u8/2023/02/11/9bd7381a/index.m3u8
+精东影业JDYL023叫鸡叫到亲姐姐,https://t21.cdn2020.com/video/m3u8/2023/02/11/d781fd63/index.m3u8
+麻麻传媒MT-014台球桌上的赌注,https://t21.cdn2020.com/video/m3u8/2023/02/21/2e1de2f1/index.m3u8
+麻麻传媒MT-026粉嫩小穴惨遭蹂躏,https://t21.cdn2020.com/video/m3u8/2023/02/07/f3321da6/index.m3u8
+麻麻传媒MT-029全身润滑紧贴哥哥,https://t21.cdn2020.com/video/m3u8/2023/02/26/9f2066a7/index.m3u8
+麻麻传媒MT-033捡尸醉酒美胸邻居-姗彤,https://t21.cdn2020.com/video/m3u8/2023/01/27/4b135d51/index.m3u8
+迷奸清纯邻家小妹,https://t21.cdn2020.com/video/m3u8/2023/02/01/096b2023/index.m3u8
+密桃传媒EMA012小模直播被弟弟逼奸,https://t21.cdn2020.com/video/m3u8/2023/04/20/c7cbc9fc/index.m3u8
+密桃传媒PMC414用身体满足饥渴岳母,https://t21.cdn2020.com/video/m3u8/2023/04/14/8641011e/index.m3u8
+密桃传媒PME052当着大哥面前强操大嫂,https://t21.cdn2020.com/video/m3u8/2023/04/20/ee45ba0c/index.m3u8
+蜜室桃脱DYMT001第1期润滑地狱,https://t21.cdn2020.com/video/m3u8/2023/02/19/df5725c6/index.m3u8
+蜜室桃脱第3期束缚地狱,https://t21.cdn2020.com/video/m3u8/2023/04/20/d888052f/index.m3u8
+蜜桃传媒EMA001美团外卖员爽操小模,https://t21.cdn2020.com/video/m3u8/2023/04/04/8439c66a/index.m3u8
+蜜桃传媒EMA007在大哥旁把嫂子操得高潮,https://t21.cdn2020.com/video/m3u8/2023/04/09/f92c5313/index.m3u8
+蜜桃传媒EMA009发情小母狗勾引室友,https://t21.cdn2020.com/video/m3u8/2023/04/18/4172679d/index.m3u8
+蜜桃传媒EMA010忍不住强上熟睡的姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/18/023df059/index.m3u8
+蜜桃传媒PMC372已婚助教被学生强逼献身,https://t21.cdn2020.com/video/m3u8/2023/01/29/ad922238/index.m3u8
+蜜桃传媒PMC374小姐姐为了红包沦作小母狗,https://t21.cdn2020.com/video/m3u8/2023/01/26/ee9b781a/index.m3u8
+蜜桃传媒PMC375偷偷玩弄睡觉中的儿子,https://t21.cdn2020.com/video/m3u8/2023/02/05/c8d1d6a0/index.m3u8
+蜜桃传媒PMC377轮操少妇带儿子破处,https://t21.cdn2020.com/video/m3u8/2023/02/11/22045e88/index.m3u8
+蜜桃传媒PMC379顺丰快递小哥送年货竟被请吃逼,https://t21.cdn2020.com/video/m3u8/2023/01/27/f13d9a49/index.m3u8
+蜜桃传媒PMC380除夕那天偷吃亲大嫂,https://t21.cdn2020.com/video/m3u8/2023/01/20/7fd087a8/index.m3u8
+蜜桃传媒PMC383催眠师操了大胸少妇,https://t21.cdn2020.com/video/m3u8/2023/02/15/84ca296d/index.m3u8
+蜜桃传媒PMC385在丈夫面前被小叔侵犯,https://t21.cdn2020.com/video/m3u8/2023/02/17/a5d808d6/index.m3u8
+蜜桃传媒PMC386不停玩弄妹妹的敏感奶头,https://t21.cdn2020.com/video/m3u8/2023/02/19/232a5721/index.m3u8
+蜜桃传媒PMC398到府水电工强奸美丽少妇,https://t21.cdn2020.com/video/m3u8/2023/03/10/cf5d2424/index.m3u8
+蜜桃传媒PMC400止不住的激情高潮,https://t21.cdn2020.com/video/m3u8/2023/03/15/ed913b9a/index.m3u8
+蜜桃传媒PMC406准新娘被前任操得高潮不止,https://t21.cdn2020.com/video/m3u8/2023/03/29/541740fa/index.m3u8
+蜜桃传媒PMC407高考表妹引诱多金表哥,https://t21.cdn2020.com/video/m3u8/2023/03/31/e8b715c3/index.m3u8
+蜜桃传媒PMC409黑丝OL献鲍求上位,https://t21.cdn2020.com/video/m3u8/2023/04/06/6134f09a/index.m3u8
+蜜桃传媒PMC410隔离期间被医师强奸,https://t21.cdn2020.com/video/m3u8/2023/04/06/fb4a1d8a/index.m3u8
+蜜桃传媒PMC412兄妹关系的修补方式,https://t21.cdn2020.com/video/m3u8/2023/04/11/5984b466/index.m3u8
+蜜桃传媒PMC415出差半夜遭讨厌的上司迷奸,https://t21.cdn2020.com/video/m3u8/2023/04/18/72acb322/index.m3u8
+蜜桃传媒PMC419继父为了遗产迷奸我,https://t21.cdn2020.com/video/m3u8/2023/04/24/fe5eec97/index.m3u8
+蜜桃传媒PME010看老婆被儿子操的绿帽癖,https://t21.cdn2020.com/video/m3u8/2023/01/24/edf17301/index.m3u8
+蜜桃传媒PME-011风韵小妈被兄弟轮奸,https://t21.cdn2020.com/video/m3u8/2023/01/26/2e59b4c0/index.m3u8
+蜜桃传媒PME-015拜金表妹真好操,https://t21.cdn2020.com/video/m3u8/2023/02/05/8ebb95a7/index.m3u8
+蜜桃传媒PME018禽兽小叔迷奸大嫂,https://t21.cdn2020.com/video/m3u8/2023/02/08/50515c6b/index.m3u8
+蜜桃传媒PME019外卖员为钱跪舔少妇小穴,https://t21.cdn2020.com/video/m3u8/2023/02/11/9aee9f78/index.m3u8
+蜜桃传媒PME020禁忌乱伦小姨强上姪儿,https://t21.cdn2020.com/video/m3u8/2023/02/13/1ec30edf/index.m3u8
+蜜桃传媒PME021下药亲妹让同学爽操她,https://t21.cdn2020.com/video/m3u8/2023/03/05/1837b4da/index.m3u8
+蜜桃传媒PME024下药亲妹把她当母狗操,https://t21.cdn2020.com/video/m3u8/2023/03/12/ff98a402/index.m3u8
+蜜桃传媒PME025无耻小姨用计迷奸姐夫,https://t21.cdn2020.com/video/m3u8/2023/03/14/64d31a38/index.m3u8
+蜜桃传媒PME026被儿子的班主任强奸,https://t21.cdn2020.com/video/m3u8/2023/03/15/a465a484/index.m3u8
+蜜桃传媒PME029饥渴小妹找亲哥止痒,https://t21.cdn2020.com/video/m3u8/2023/03/22/fe30cdde/index.m3u8
+蜜桃传媒PME031忍不住强奸护士妹妹,https://t21.cdn2020.com/video/m3u8/2023/02/16/61f207fb/index.m3u8
+蜜桃传媒PME032饥渴少妇硬上表哥,https://t21.cdn2020.com/video/m3u8/2023/02/19/a21e5e28/index.m3u8
+蜜桃传媒PME033强欲小妈想被大屌操,https://t21.cdn2020.com/video/m3u8/2023/02/19/8ee84058/index.m3u8
+蜜桃传媒PME038亲哥怒操下海妹妹,https://t21.cdn2020.com/video/m3u8/2023/03/02/b7903b0f/index.m3u8
+蜜桃传媒PME041大奶小妈让我欲罢不能,https://t21.cdn2020.com/video/m3u8/2023/03/25/5cd24190/index.m3u8
+蜜桃传媒PME046饥渴小姑勾引外甥求干,https://t21.cdn2020.com/video/m3u8/2023/04/06/1b6a879e/index.m3u8
+蜜桃传媒PME050表妹为钱想当欠操母狗,https://t21.cdn2020.com/video/m3u8/2023/04/13/a680d189/index.m3u8
+蜜桃传媒PMTC017音乐爱情故事-越爱越难,https://t21.cdn2020.com/video/m3u8/2023/02/05/d822edcb/index.m3u8
+蜜桃传媒PMTC019当着大哥的面前玩弄大嫂,https://t21.cdn2020.com/video/m3u8/2023/02/15/e8ef5393/index.m3u8
+蜜桃传媒PMTC024强欲大嫂忍不住要我操她,https://t21.cdn2020.com/video/m3u8/2023/03/19/1046b9b1/index.m3u8
+蜜桃影像PME-009趁妹妹不在勾引她老公,https://t21.cdn2020.com/video/m3u8/2023/01/19/1573333c/index.m3u8
+天美传媒AJY001时装模特儿的秘密,https://t21.cdn2020.com/video/m3u8/2023/02/13/9a89c3c7/index.m3u8
+天美传媒TMBC003新员工业务绩效的秘密,https://t21.cdn2020.com/video/m3u8/2023/02/13/9fe4dce5/index.m3u8
+天美传媒TMBC019黑丝后妈的美腿诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/19/7d71706f/index.m3u8
+天美传媒TMBC023广告演的都是真的,https://t21.cdn2020.com/video/m3u8/2023/03/31/e6f6a285/index.m3u8
+天美传媒TMBC026打赏主播真约炮,https://t21.cdn2020.com/video/m3u8/2023/04/06/d6c1a6ef/index.m3u8
+天美传媒TMBC027情场失意赌场得意,https://t21.cdn2020.com/video/m3u8/2023/04/07/28da99a0/index.m3u8
+天美传媒TMBC028恶心哥哥偷我的内裤,https://t21.cdn2020.com/video/m3u8/2023/04/11/e828d02a/index.m3u8
+天美传媒TMBC030母子默契不只心连心,https://t21.cdn2020.com/video/m3u8/2023/04/20/12610172/index.m3u8
+天美传媒TMBC060约炮约到自已妹妹,https://t21.cdn2020.com/video/m3u8/2023/03/23/3efa9da2/index.m3u8
+天美传媒TMG081新郎结婚前的最后一次出轨炮,https://t21.cdn2020.com/video/m3u8/2023/03/25/6ad624db/index.m3u8
+天美传媒TMG089岳母替老婆照顾我的鸡巴,https://t21.cdn2020.com/video/m3u8/2023/04/09/aed9e254/index.m3u8
+天美传媒TMG111第一次和喜欢的哥哥做爱,https://t21.cdn2020.com/video/m3u8/2023/02/13/91725c87/index.m3u8
+天美传媒TMG113在醉酒老公面前和上司操逼,https://t21.cdn2020.com/video/m3u8/2023/02/16/d01e62ad/index.m3u8
+天美传媒TMG120元旦送老公绿帽礼物,https://t21.cdn2020.com/video/m3u8/2023/01/24/8aabcc57/index.m3u8
+天美传媒TMP0020儿子同学是我的炮友,https://t21.cdn2020.com/video/m3u8/2023/01/27/32fa9438/index.m3u8
+天美传媒TMP0023为了钱我什么都会做,https://t21.cdn2020.com/video/m3u8/2023/01/31/8f124187/index.m3u8
+天美传媒TMP0026护士的夜间诊疗室,https://t21.cdn2020.com/video/m3u8/2023/02/05/745bfe8a/index.m3u8
+天美传媒TMP0028配对游戏,https://t21.cdn2020.com/video/m3u8/2023/02/15/8478232b/index.m3u8
+天美传媒TMP0037约炮约到玩具爱好者,https://t21.cdn2020.com/video/m3u8/2023/03/12/ca453008/index.m3u8
+天美传媒TMP0041资优生的烦恼,https://t21.cdn2020.com/video/m3u8/2023/02/26/2959ac4c/index.m3u8
+天美传媒TMP0049神灯精灵帮肥宅破处,https://t21.cdn2020.com/video/m3u8/2023/03/14/e6fce9ce/index.m3u8
+天美传媒TMP0050汽车教练之爱的教导,https://t21.cdn2020.com/video/m3u8/2023/03/04/6883d40a/index.m3u8
+天美传媒TMP0063厨师到你家,https://t21.cdn2020.com/video/m3u8/2023/03/31/082defcd/index.m3u8
+天美传媒TMP0068姐弟禁忌约炮,https://t21.cdn2020.com/video/m3u8/2023/04/11/98e70499/index.m3u8
+天美传媒TMP0070隔壁系上的高冷助教,https://t21.cdn2020.com/video/m3u8/2023/04/18/08f76aa2/index.m3u8
+天美传媒TMP0080貌美小妈勾引我,https://t21.cdn2020.com/video/m3u8/2023/03/10/fe493752/index.m3u8
+天美传媒TMP0084嫂子的诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/27/36a3c2e2/index.m3u8
+天美传媒TMW124跨年蹦迪速约指南,https://t21.cdn2020.com/video/m3u8/2023/01/20/fb18c184/index.m3u8
+天美传媒TMW125小区管理员偷拍威胁做爱否则外流影片,https://t21.cdn2020.com/video/m3u8/2023/01/24/cdb7e369/index.m3u8
+天美传媒TMW145被隔壁的高富帅无情调教,https://t21.cdn2020.com/video/m3u8/2023/03/16/deece1e5/index.m3u8
+天美传媒TMW147镜头外的欲火拍摄结束后的激情,https://t21.cdn2020.com/video/m3u8/2023/03/19/28f71874/index.m3u8
+天美传媒TMW153怎么可以吃兔兔只能床上玩兔兔,https://t21.cdn2020.com/video/m3u8/2023/04/04/a6f009d8/index.m3u8
+天美传媒TMW162狂飙之黑道夫妇恋爱之路,https://t21.cdn2020.com/video/m3u8/2023/04/11/8b8e83f0/index.m3u8
+天美传媒TMXL010老公不知道的事,https://t21.cdn2020.com/video/m3u8/2023/02/07/fdaaac1a/index.m3u8
+兔子先生DAD-001爸气十足EP20,https://t21.cdn2020.com/video/m3u8/2023/02/23/555c89a4/index.m3u8
+兔子先生DAD-002-EP18爸气十足EP18,https://t21.cdn2020.com/video/m3u8/2023/03/15/9d49a653/index.m3u8
+兔子先生DAD-003-EP19爸气十足EP19,https://t21.cdn2020.com/video/m3u8/2023/03/24/0bb402bd/index.m3u8
+兔子先生DAD-004_EP21爸气十足EP21,https://t21.cdn2020.com/video/m3u8/2023/04/24/fb45a013/index.m3u8
+兔子先生DAD-004-EP20爸气十足EP20,https://t21.cdn2020.com/video/m3u8/2023/04/11/18fc4940/index.m3u8
+兔子先生TZ-099春之夜与她一夜情久难忘,https://t21.cdn2020.com/video/m3u8/2023/03/23/0266a92f/index.m3u8
+兔子先生TZ-101突然袭击乱入3P,https://t21.cdn2020.com/video/m3u8/2023/04/07/c0d87b85/index.m3u8
+乌托邦WTB-069都是为了沉迷电动的哥哥,https://t21.cdn2020.com/video/m3u8/2023/03/12/29275d4f/index.m3u8
+乌托邦WTB-071地方的家庭教育需要调教,https://t21.cdn2020.com/video/m3u8/2023/03/12/94860a58/index.m3u8
+乌托邦WTB-072点燃香烟前请先点燃对继妹的欲火吧,https://t21.cdn2020.com/video/m3u8/2023/03/14/c9a99489/index.m3u8
+乌拖邦WTB066忍无可忍的兄妹教育,https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
+星空传媒XK8154为了药就让你操一次,https://t21.cdn2020.com/video/m3u8/2023/02/08/1c862a22/index.m3u8
+星空传媒XK8156碰撞出的火花,https://t21.cdn2020.com/video/m3u8/2023/02/28/101027d4/index.m3u8
+星空传媒XKG094和讨厌的上司出差半夜把我迷晕,https://t21.cdn2020.com/video/m3u8/2023/01/19/abc0762f/index.m3u8
+星空传媒XKG101儿媳和公公乱伦报复出轨的老公,https://t21.cdn2020.com/video/m3u8/2023/02/05/5104a6cc/index.m3u8
+星空传媒XKG108黑丝OL惨遭清洁工强奸但却意外享受,https://t21.cdn2020.com/video/m3u8/2023/02/16/951ec844/index.m3u8
+星空传媒XKG111在病房自慰的护士被偷拍威胁,https://t21.cdn2020.com/video/m3u8/2023/02/19/ad612d0e/index.m3u8
+星空传媒XKG112婆婆催生儿媳借种公公,https://t21.cdn2020.com/video/m3u8/2023/02/23/36765a2f/index.m3u8
+星空传媒XKG113新来的秘书竟然是老婆闺蜜,https://t21.cdn2020.com/video/m3u8/2023/02/23/53297427/index.m3u8
+星空传媒XKG127怒操冒失的保险业务小妹,https://t21.cdn2020.com/video/m3u8/2023/03/19/dc555e2c/index.m3u8
+星空传媒XKG145刚满18岁就和双胞胎妹妹啪啪,https://t21.cdn2020.com/video/m3u8/2023/04/20/eb448ad6/index.m3u8
+星空传媒XKQP015新婚少妇婚前和网友无套疯狂做爱,https://t21.cdn2020.com/video/m3u8/2023/03/25/7837ae31/index.m3u8
+星空传媒XKQP021抽插在瑜伽球上的姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/24/ba3d319f/index.m3u8
+星空传媒XKTC031帮同事勾引少妇没想到却是自已被绿了,https://t21.cdn2020.com/video/m3u8/2023/01/31/6fba19d9/index.m3u8
+星空传媒XKWTB041高冷骑士用紧实嫩穴换取重型机车,https://t21.cdn2020.com/video/m3u8/2023/02/13/d87b2362/index.m3u8
+星空影迷福利线下粉丝祭之一泊二日帝王般的享受,https://t21.cdn2020.com/video/m3u8/2023/02/15/fe411632/index.m3u8
 🌸海外CR,#genre#
 VIP001:Hustler,http://mohdtv.com:8880/voby3884/39337263/2985
 VIP002:Redlight,http://mohdtv.com:8880/voby3884/39337263/2984
