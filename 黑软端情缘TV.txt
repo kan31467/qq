@@ -442,6 +442,67 @@ CHC家庭影院,http://27.30.64.49:15000/udp/239.69.1.243:11100$湖北电信 组
 广西卫视,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.76:8043$河北联通 组播
 贵州卫视,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.105:6055$河北联通 组播
 🌸网络港台,#genre#哈哈哈你这个是逼 QQ群 871838295你爆了也没有用的我群全部都是一锅端，你还在来我群把哈哈哈你这个是逼 QQ群 
+中天新闻台,http://154.12.50.54:123/smt.php?id=ctinews
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+无线Plus台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+Astr欢喜台,http://154.12.50.54:123/smt.php?id=Huahee
+Astr爱奇艺,http://154.12.50.54:123/smt.php?id=Qiyi
+VIUTV台粤,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+天映频道粤,http://154.12.50.54:123/smt.php?id=Celestial
+美亚电影国,http://154.12.50.54:123/smt.php?id=meiyamovie_twn
+纬来电影国,http://154.12.50.54:123/smt.php?id=videolandmovie
+東森电影国,http://154.12.50.54:123/smt.php?id=ettvmovie
+龙华电影国,http://154.12.50.54:123/smt.php?id=xingwei_movie
+无线星河国,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+无线星河备,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐备,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+凤凰卫视台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳门莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
+澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+东森经财台,http://154.12.50.54:123/smt.php?id=ettvcaijing_twn
+中天亚洲台,http://154.12.50.54:123/smt.php?id=ctiasia_twn
+TVBS新闻台,http://154.12.50.54:123/smt.php?id=tvbs_n
+TVBS HD台,http://154.12.50.54:123/smt.php?id=tvbs
+TVBS欢乐台,http://154.12.50.54:123/smt.php?id=tvbshuanle_twn
+东森新闻台,http://154.12.50.54:123/smt.php?id=ettvnews
+三立新闻台,http://154.12.50.54:123/smt.php?id=sanlitaiwan
+寰宇新闻台,http://154.12.50.54:123/smt.php?id=huanyuxinwen_twn
+年代新闻台,http://154.12.50.54:123/smt.php?id=niandainews_twn
+非凡新闻台,http://154.12.50.54:123/smt.php?id=feifannews_twn
+中视新闻台,http://154.12.50.54:123/smt.php?id=ca73a13c37
+公视新闻台,http://154.12.50.54:123/smt.php?id=ctv_taiwan
+民视新闻台,http://154.12.50.54:123/smt.php?id=ftvnew_taiwan
+台视新闻台,http://154.12.50.54:123/smt.php?id=ttvnews_twn
+民视闽南台,rtmp://f13h.mine.nu/sat/tv051
+中视闽南台,rtmp://f13h.mine.nu/sat/tv091
+台视闽南台,rtmp://f13h.mine.nu/sat/tv071
+华视闽南台,rtmp://f13h.mine.nu/sat/tv111
+东森超视台,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来日本备,http://154.12.50.54:123/smt.php?id=videolandjapan
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来体育备,http://154.12.50.54:123/smt.php?id=videolandsport
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+动物星球台,http://154.12.50.54:123/smt.php?id=animalplanet_twn
 台视频道,rtmp://220.130.201.73/sat/tv071
 民视频道,rtmp://220.130.201.73/sat/tv051
 纬来日本,rtmp://220.130.201.73/sat/tv771
