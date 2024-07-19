@@ -218,75 +218,6 @@ CCTV16,http://120.77.28.4:8648/yinhe2.php?id=cctv16
 CCTV17,http://120.77.28.4:8648/yinhe.php?id=cctv17
 CCTV17,http://120.77.28.4:8648/yinhe2.php?id=cctv17
 🌸网络港台,#genre#哈哈哈你这个是逼 QQ群 871838295你爆了也没有用的我群全部都是一锅端，你还在来我群把哈哈哈你这个是逼 QQ群 
-AXN,https://bsex.serv00.net/Smart.php?id=axn_twn
-CINEMAX,https://bsex.serv00.net/Smart.php?id=cinemax_twn
-EYE戲劇,https://bsex.serv00.net/Smart.php?id=eyetvxiju_twn
-EYE旅遊,https://bsex.serv00.net/Smart.php?id=eyetvtravel_twn
-HBO,https://bsex.serv00.net/Smart.php?id=hbohd_twn
-HBO FAMILY,https://bsex.serv00.net/Smart.php?id=fyi_twn
-好萊塢電影,https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
-MTV LIVE,https://bsex.serv00.net/Smart.php?id=mtvhd_twn
-TLC旅遊生活,https://bsex.serv00.net/Smart.php?id=tlc_twn
-東森新聞,https://bsex.serv00.net/Smart.php?id=ettvnews
-TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
-TVBS新聞,https://bsex.serv00.net/Smart.php?id=tvbs_n
-TVBS歡樂,https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
-三立台灣,https://bsex.serv00.net/Smart.php?id=sanlitaiwan
-三立戲劇,https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
-三立綜合,https://bsex.serv00.net/Smart.php?id=sanlizhonghe
-中天亞洲,https://bsex.serv00.net/Smart.php?id=ctiasia_twn
-中天娱樂,https://bsex.serv00.net/Smart.php?id=ctient
-中天新聞,https://bsex.serv00.net/Smart.php?id=ctinews
-中天綜合,https://bsex.serv00.net/Smart.php?id=ctizhonghe
-亞洲旅遊,https://bsex.serv00.net/Smart.php?id=asiatravel_twn
-亞洲美食,https://bsex.serv00.net/Smart.php?id=afc_twn
-八大戲劇,https://bsex.serv00.net/Smart.php?id=badadrama
-八大第一,https://bsex.serv00.net/Smart.php?id=badafirst
-八大綜合,https://bsex.serv00.net/Smart.php?id=badazhonghe
-公視,https://bsex.serv00.net/Smart.php?id=ctv_taiwan
-民視,https://bsex.serv00.net/Smart.php?id=ftvhd_taiwan
-民視第一,https://bsex.serv00.net/Smart.php?id=lunghuajingdian_twn
-民視台灣,https://bsex.serv00.net/Smart.php?id=ftvtaiwan_twn
-民視新聞,https://bsex.serv00.net/Smart.php?id=ftvnew_taiwan
-台視,https://bsex.serv00.net/Smart.php?id=ttv_taiwan
-台視新聞,https://bsex.serv00.net/Smart.php?id=ttvnews_twn
-中視,https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
-中視新聞,https://bsex.serv00.net/Smart.php?id=zhongshinews_twn
-中視經典,https://bsex.serv00.net/Smart.php?id=zhongshi_twn
-華視,https://bsex.serv00.net/Smart.php?id=ctshd_twn
-華藝綜合,https://bsex.serv00.net/Smart.php?id=weishichinese_twn
-大愛一,https://bsex.serv00.net/Smart.php?id=daai_twn
-寰宇新聞,https://bsex.serv00.net/Smart.php?id=huanyuxinwen_twn
-寰宇財經,https://bsex.serv00.net/Smart.php?id=huanyutaiwan_twn
-年代新聞,https://bsex.serv00.net/Smart.php?id=niandainews_twn
-愛爾達影劇,https://bsex.serv00.net/Smart.php?id=eltayingju_twn
-愛爾達體育 1,https://bsex.serv00.net/Smart.php?id=eltasport_twn
-愛爾達體育 2,https://bsex.serv00.net/Smart.php?id=eltasport2_twn
-愛爾達體育 3,https://bsex.serv00.net/Smart.php?id=eltasport3_twn
-ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
-博斯網球,https://bsex.serv00.net/Smart.php?id=bositennis_twn
-博斯運動1,https://bsex.serv00.net/Smart.php?id=bosisport1_twn
-博斯運動2,https://bsex.serv00.net/Smart.php?id=bosisport2_twn
-博斯高球1,https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
-博斯高球2,https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
-探索動力,https://bsex.serv00.net/Smart.php?id=discoveryturbo_twn
-國家地理,https://bsex.serv00.net/Smart.php?id=natgeohd_twn
-野生動物,https://bsex.serv00.net/Smart.php?id=natgeowild_twn
-動物星球,https://bsex.serv00.net/Smart.php?id=animalplanet_twn
-時尚,https://bsex.serv00.net/Smart.php?id=fashiontv_twn
-東森綜合,https://bsex.serv00.net/Smart.php?id=ettvzhonghe
-東森財經新聞,https://bsex.serv00.net/Smart.php?id=ettvcaijing_twn
-東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
-緯來日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
-緯來體育,https://bsex.serv00.net/Smart.php?id=videolandsport
-BBC WORLD NEWS,https://bsex.serv00.net/Smart.php?id=bbcnews_twn
-BLOOMBERG NEWS,https://bsex.serv00.net/Smart.php?id=bloomberg_twn
-FOX NEWS,https://bsex.serv00.net/Smart.php?id=foxnews_twn
-阿里郎,https://bsex.serv00.net/Smart.php?id=arirang_twn
-CN卡通,https://bsex.serv00.net/Smart.php?id=momo1_twn
-靖天卡通,https://bsex.serv00.net/Smart.php?id=jingtiancartoon_twn
-靖天國際,https://bsex.serv00.net/Smart.php?id=jingtianintl_twn
-非凡新聞,https://bsex.serv00.net/Smart.php?id=feifannews_twn
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -338,17 +269,6 @@ now财经台,http://dl.yidiandian.online/11.php?id=333
 now直播台,http://dl.yidiandian.online/11.php?id=331
 东森LIVE,http://dl.yidiandian.online/11.php?id=145
 有线18台,http://dl.yidiandian.online/11.php?id=18
-台视,rtmp://f13h.mine.nu:1935/sat/tv071
-中视,rtmp://f13h.mine.nu:1935/sat/tv091
-民视,rtmp://f13h.mine.nu:1935/sat/tv051
-华视,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-中天新闻,http://dl.yidiandian.online/11.php?id=141
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
-纬来育乐,rtmp://f13h.mine.nu:1935/sat/tv701
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
-东森超视,rtmp://f13h.mine.nu:1935/sat/tv331
 Mo综合,rtmp://f13h.mine.nu:1935/sat/tv761
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -1554,19 +1474,6 @@ MC张天赋-时候不早,https://s2.pub/371
 埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv 
 埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv 
 埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
-埋堆堆19,source:http://cfss.cc/cdn/hy/23728674.flv
-邵氏影院,http://159.75.85.63:35455/douyu/4246519 
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-邵氏影院,http://159.75.85.63:35455/douyu/4246519 
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-邵氏影院,http://159.75.85.63:35455/douyu/4246519
-邵氏影院,http://43.132.147.111:65/lbjm.php?id=4246519
-经典影视,https://live.metshop.top/yy/1382745184
-邵氏影院,https://www.goodiptv.club/douyu/4246519
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-吃米滴虫,http://159.75.85.63:35455/douyu/315457
-吃米滴虫,http://epg.112114.xyz/douyu/315457
 冰冰经典,http://159.75.85.63:35455/douyu/74374
 星爷影院,http://159.75.85.63:35455/douyu/508118
 瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
