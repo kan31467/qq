@@ -232,10 +232,6 @@ CCTV17,http://120.77.28.4:8648/yinhe2.php?id=cctv17
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-CCTV6,http://ygbh.live/1905.php?id=cctv6
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://ygbh.live/1905.php?id=1905b
 探索,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -247,29 +243,6 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 经典重温,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰中文,http://dl.yidiandian.online/11.php?id=182
-凤凰资讯,http://dl.yidiandian.online/11.php?id=183
-凤凰香港,http://dl.yidiandian.online/11.php?id=184
-TVB 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
-TVB 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB 千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-now新闻台,http://dl.yidiandian.online/11.php?id=332
-now财经台,http://dl.yidiandian.online/11.php?id=333
-now直播台,http://dl.yidiandian.online/11.php?id=331
-东森LIVE,http://dl.yidiandian.online/11.php?id=145
-有线18台,http://dl.yidiandian.online/11.php?id=18
 Mo综合,rtmp://f13h.mine.nu:1935/sat/tv761
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -288,55 +261,14 @@ ELE体育3,rtmp://f13h.mine.nu:1935/sat/tv751
 ELTA体育1,http://dl.yidiandian.online/11.php?id=159
 ELTA体育2,http://dl.yidiandian.online/11.php?id=160
 ELTA体育3,http://dl.yidiandian.online/11.php?id=161
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 台(粤),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-澳门莲花卫视,http://php.jdshipin.com:8880/amlh.php
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Astro AOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 耀才财经台HD,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
-无线Plus台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-无线明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-VIUTV台粤,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-无线星河国,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-无线星河备,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-无线娱乐备,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 緯來體育,http://cloud.yumixiu768.com/tmp/123.m3u8
@@ -358,7 +290,6 @@ TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-無線經典臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 🌸江苏频道,#genre#你还在来我群把，我就是给你爆的，哈哈哈你这个是逼 QQ群 810273966QQ群 810273966QQ群 810273966
 江苏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
