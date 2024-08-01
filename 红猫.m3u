@@ -10,6 +10,8 @@ http://183.92.4.163:4000/udp/228.0.0.143:7143
 #EXTINF:-1 tvg-id="A105" tvg-name="彩虹e台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/%E5%BD%A9%E8%99%B9E.png" group-title="松视直播",彩虹e台
 http://183.92.4.163:4000/udp/228.0.0.112:6108
 #EXTINF:-1 tvg-id="A106" tvg-name="彩虹K台+" tvg-logo="https://gitee.com/weidi149081665/TV/blob/master/MOD-1/%E5%BD%A9%E8%99%B9K.png" group-title="松视直播",彩虹K台
+#EXTINF:-1 tvg-id="A115" tvg-name="彩虹电影" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1%E5%8F%B0.png." group-title="松视直播",彩虹电影
+http://183.92.4.163:4000/udp/228.0.0.14:6108
 http://183.92.4.163:4000/udp/228.0.0.17:6108
 #EXTINF:-1 tvg-id="A107" tvg-name="潘朵啦紫色台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/5.png" group-title="松视直播",潘朵啦紫色台
 http://183.92.4.163:4000/udp/228.0.0.157:7157
@@ -27,8 +29,6 @@ http://183.92.4.163:4000/udp/228.0.0.242:6108
 http://183.92.4.163:4000/udp/228.0.0.12:6108
 #EXTINF:-1 tvg-id="A114" tvg-name="JSTV极限电影台" tvg-logo="https://gitee.com/weidi149081665/TV/blob/master/MOD-1/%E6%9E%81%E9%99%90.png" group-title="松视直播",JSTV极限电影台
 http://183.92.4.163:4000/udp/228.0.0.202:6108
-#EXTINF:-1 tvg-id="A115" tvg-name="彩虹电影" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1%E5%8F%B0.png." group-title="松视直播",彩虹电影
-http://183.92.4.163:4000/udp/228.0.0.14:6108
 #EXTINF:-1 tvg-id="A16" tvg-name="香草BJ-3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="韩国BJ播",香草BJ-3
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="A117" tvg-name="香草BJ-4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="韩国BJ播",香草BJ-4
