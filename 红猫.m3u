@@ -1,0 +1,133 @@
+#EXTM3U
+#使用指南/2个频道
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/1.png" group-title="使用指南",欢迎页
+https://xn--4gq517l.life/tv/1.mp4
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.png" group-title="使用指南",通知与公告
+https://xn--4gq517l.life/tv/2.mp4
+#央视/22个频道
+#EXTINF:-1 tvg-id="A101" tvg-name="松视1台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/1.png" group-title="松视直播",松视1台
+http://183.92.4.163:4000/udp/228.0.0.1:6108
+#EXTINF:-1 tvg-id="A102" tvg-name="松视2台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/2.png" group-title="松视直播",松视2台
+http://183.92.4.163:4000/udp/228.0.0.2:6108
+#EXTINF:-1 tvg-id="A103" tvg-name="松视3台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/3.png" group-title="松视直播",松视3台
+http://183.92.4.163:4000/udp/228.0.0.156:7156
+#EXTINF:-1 tvg-id="A104" tvg-name="松视4台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4.png" group-title="松视直播",松视4台
+http://183.92.4.163:4000/udp/228.0.0.143:7143
+#EXTINF:-1 tvg-id="A105" tvg-name="彩虹e台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="松视直播",彩虹e台
+http://183.92.4.163:4000/udp/228.0.0.112:6108
+#EXTINF:-1 tvg-id="A106" tvg-name="彩虹K台+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="松视直播",彩虹K台
+http://183.92.4.163:4000/udp/228.0.0.17:6108
+#EXTINF:-1 tvg-id="A107" tvg-name="潘朵啦紫色台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/5.png" group-title="松视直播",潘朵啦紫色台
+http://183.92.4.163:4000/udp/228.0.0.157:7157
+#EXTINF:-1 tvg-id="A108" tvg-name="潘朵啦粉红台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/6.png" group-title="松视直播",潘朵啦粉红台
+http://183.92.4.163:4000/udp/228.0.0.7:6108
+#EXTINF:-1 tvg-id="A109" tvg-name="HI PIAY台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/7.png" group-title="松视直播",HI PIAY台
+http://183.92.4.163:4000/udp/228.0.0.158:7158
+#EXTINF:-1 tvg-id="A110" tvg-name="JStar极限台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/8.png" group-title="松视直播",HOT台
+p://183.92.4.163:4000/udp/228.0.0.9:6108
+#EXTINF:-1 tvg-id="A111" tvg-name="HAPPY台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/9.png" group-title="松视直播",HAPPY台
+http://183.92.4.163:4000/udp/228.0.0.10:6108
+#EXTINF:-1 tvg-id="A112" tvg-name="奥世惊艳台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/QQ%E6%88%AA%E5%9B%BE20240801190539.png" group-title="松视直播",奥世惊艳台
+http://183.92.4.163:4000/udp/228.0.0.242:6108
+#EXTINF:-1 tvg-id="A113" tvg-name="HOT台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/21.png" group-title="松视直播",奥世香蕉台
+http://183.92.4.163:4000/udp/228.0.0.12:6108
+#EXTINF:-1 tvg-id="A114" tvg-name="香草BJ-1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="松视直播",LOOK台
+http://183.92.4.163:4000/udp/228.0.0.202:6108
+#EXTINF:-1 tvg-id="A115" tvg-name="香草BJ-2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="韩国BJ播",香草BJ-2
+http://183.92.4.163:4000/udp/228.0.0.14:6108
+#EXTINF:-1 tvg-id="A16" tvg-name="香草BJ-3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="韩国BJ播",香草BJ-3
+http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="A117" tvg-name="香草BJ-4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="韩国BJ播",香草BJ-4
+http://183.92.4.163:4000/udp/228.0.0.249:6108
+#EXTINF:-1 tvg-id="A118" tvg-name="香草BJ-5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="韩国BJ播",香草BJ-5
+http://183.92.4.163:4000/udp/228.0.0.161:7161
+#EXTINF:-1 tvg-id="A119" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视IPv4",CCTV-4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="A120" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视IPv4",CCTV-8K 超高清
+https://tv.cry33.com/ys4k.php?id=8k
+#EXTINF:-1 tvg-id="A121" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视IPv4",CETV-1 综合教育
+http://111.11.98.205:9900/hls/65/index.m3u8
+#EXTINF:-1 tvg-id="A122" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="央视IPv4",CETV-2 空中课堂
+0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-id="A123" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="央视IPv4",CETV-3 教育服务
+0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-id="A124" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="央视IPv4",CETV-4 职业教育
+0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+
+#卫视/37个频道
+#EXTINF:-1 tvg-id="B101" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视IPv4",湖南卫视
+http://183.92.4.163:4000/udp/228.0.0.61:6108
+#EXTINF:-1 tvg-id="B102" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视IPv4",浙江卫视
+http://183.92.4.163:4000/udp/228.0.0.65:6108
+#EXTINF:-1 tvg-id="B103" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视IPv4",东方卫视
+http://183.92.4.163:4000/udp/228.0.0.62:6108
+#EXTINF:-1 tvg-id="B104" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视IPv4",北京卫视
+http://183.92.4.163:4000/udp/228.0.0.63:6108
+#EXTINF:-1 tvg-id="B105" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视IPv4",江苏卫视
+http://183.92.4.163:4000/udp/228.0.0.64:6108
+#EXTINF:-1 tvg-id="B106" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视IPv4",安徽卫视
+http://183.92.4.163:4000/udp/228.0.0.122:6108
+#EXTINF:-1 tvg-id="B107" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Chongqing.png" group-title="卫视IPv4",重庆卫视
+http://183.92.4.163:4000/udp/228.0.0.159:7159
+#EXTINF:-1 tvg-id="B108" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png" group-title="卫视IPv4",东南卫视
+http://183.92.4.163:4000/udp/228.0.0.144:7144
+#EXTINF:-1 tvg-id="B109" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png" group-title="卫视IPv4",甘肃卫视
+http://125.210.152.19:9123/live/hszx-gstv-h264.m3u8
+#EXTINF:-1 tvg-id="B110" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png" group-title="卫视IPv4",广东卫视
+http://183.92.4.163:4000/udp/228.0.0.66:6108
+#EXTINF:-1 tvg-id="B11" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视IPv4",广西卫视
+http://111.11.98.205:9900/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="B112" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视IPv4",贵州卫视
+http://183.92.4.163:4000/udp/228.0.0.160:7160
+#EXTINF:-1 tvg-id="B113" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视IPv4",海南卫视
+http://183.92.4.163:4000/udp/228.0.0.165:7165
+#EXTINF:-1 tvg-id="B114" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hebei.png" group-title="卫视IPv4",河北卫视
+http://183.92.4.163:4000/udp/228.0.0.168:7168
+#EXTINF:-1 tvg-id="B115" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang.png" group-title="卫视IPv4",黑龙江卫视
+http://183.92.4.163:4000/udp/228.0.0.68:6108
+#EXTINF:-1 tvg-id="B116" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png" group-title="卫视IPv4",河南卫视
+http://183.92.4.163:4000/udp/228.0.0.230:6108
+#EXTINF:-1 tvg-id="B117" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png" group-title="卫视IPv4",湖北卫视
+http://111.11.98.205:9900/hls/46/index.m3u8
+#EXTINF:-1 tvg-id="B118" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="卫视IPv4",江西卫视
+http://183.92.4.163:4000/udp/228.0.0.147:7147
+#EXTINF:-1 tvg-id="B119" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" group-title="卫视IPv4",吉林卫视
+http://111.11.98.205:9900/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="B120" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视IPv4",辽宁卫视
+http://183.92.4.163:4000/udp/228.0.0.123:6108
+#EXTINF:-1 tvg-id="B121" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视IPv4",山东卫视
+http://183.92.4.163:4000/udp/228.0.0.121:6108
+#EXTINF:-1 tvg-id="B122" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" group-title="卫视IPv4",深圳卫视
+http://183.92.4.163:4000/udp/228.0.0.67:6108
+#EXTINF:-1 tvg-id="B123" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视IPv4",四川卫视
+http://183.92.4.163:4000/udp/228.0.0.231:6108
+#EXTINF:-1 tvg-id="B124" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png" group-title="卫视IPv4",天津卫视
+http://183.92.4.163:4000/udp/228.0.0.120:6108
+#EXTINF:-1 tvg-id="B125" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yunnan.png" group-title="卫视IPv4",云南卫视
+http://111.11.98.205:9900/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="B126" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png" group-title="卫视IPv4",新疆卫视
+http://111.11.98.205:9900/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="B129" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png" group-title="卫视IPv4",陕西卫视
+http://111.11.98.205:9900/hls/52/index.m3u8
+#EXTINF:-1 tvg-id="B130" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视IPv4",山西卫视
+http://111.11.98.205:9900/hls/53/index.m3u8
+#EXTINF:-1 tvg-id="B131" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视IPv4",西藏卫视
+http://111.11.98.205:9900/hls/58/index.m3u8
+#EXTINF:-1 tvg-id="B132" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视IPv4",内蒙古卫视
+http://111.11.98.205:9900/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="B133" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视IPv4",青海卫视
+http://111.11.98.205:9900/hls/55/index.m3u8
+#EXTINF:-1 tvg-id="B134" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视IPv4",宁夏卫视
+http://111.11.98.205:9900/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="B135" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png" group-title="卫视IPv4",兵团卫视
+https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="B136" tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视IPv4",安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
+#EXTINF:-1 tvg-id="B137" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视IPv4",康巴卫视
+0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+#EXTINF:-1 tvg-id="B138" tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong10.png" group-title="卫视IPv4",大湾区卫视
+http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+#EXTINF:-1 tvg-id="B139" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png" group-title="卫视IPv4",延边卫视
+http://gmxw.7766.org:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="B140" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视IPv4",厦门卫视
+http://gmxw.7766.org:808/hls/17/index.m3u8
