@@ -1,10 +1,4 @@
 #EXTM3U
-#使用指南/2个频道
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/1.png" group-title="使用指南",欢迎页
-https://xn--4gq517l.life/tv/1.mp4
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.png" group-title="使用指南",通知与公告
-https://xn--4gq517l.life/tv/2.mp4
-#央视/22个频道
 #EXTINF:-1 tvg-id="A101" tvg-name="松视1台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/1.png" group-title="松视直播",松视1台
 http://183.92.4.163:4000/udp/228.0.0.1:6108
 #EXTINF:-1 tvg-id="A102" tvg-name="松视2台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/2.png" group-title="松视直播",松视2台
@@ -53,8 +47,7 @@ http://111.11.98.205:9900/hls/65/index.m3u8
 0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="A124" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="央视IPv4",CETV-4 职业教育
 0http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-
-#卫视/37个频道
+#EXTM3U
 #EXTINF:-1 tvg-id="B101" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视IPv4",湖南卫视
 http://183.92.4.163:4000/udp/228.0.0.61:6108
 #EXTINF:-1 tvg-id="B102" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视IPv4",浙江卫视
