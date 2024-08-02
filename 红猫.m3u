@@ -11,7 +11,7 @@ http://183.92.4.163:4000/udp/228.0.0.143:7143
 http://183.92.4.163:4000/udp/228.0.0.112:6108
 #EXTINF:-1 tvg-id="6" tvg-name="彩虹K台+" tvg-logo="https://fel.forxhr.top:2022/view.php/db651750c53828e1f044a81bccfc4d55.png" group-title="松视直播",彩虹K台
 http://183.92.4.163:4000/udp/228.0.0.17:6108
-#EXTINF:-1 tvg-id="7" tvg-name="彩虹电影" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1%E5%8F%B0.png." group-title="松视直播",彩虹电影
+#EXTINF:-1 tvg-id="7" tvg-name="彩虹电影" tvg-logo="https://fel.forxhr.top:2022/view.php/07a150c0b9dad5148c833cb90d7e9963.png." group-title="松视直播",彩虹电影
 http://183.92.4.163:4000/udp/228.0.0.14:6108
 #EXTINF:-1 tvg-id="8" tvg-name="潘朵啦紫色台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/5.png" group-title="松视直播",潘朵啦紫色台
 http://183.92.4.163:4000/udp/228.0.0.157:7157
