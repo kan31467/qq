@@ -27,7 +27,7 @@ http://183.92.4.163:4000/udp/228.0.0.10:6108
 http://183.92.4.163:4000/udp/228.0.0.242:6108
 #EXTINF:-1 tvg-id="14" tvg-name="HOT台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/21.png" group-title="松视直播",奥世香蕉台
 http://183.92.4.163:4000/udp/228.0.0.12:6108
-#EXTINF:-1 tvg-id="15" tvg-name="JSTV极限电影台" tvg-logo="https://gitee.com/weidi149081665/TV/blob/master/MOD-1/%E6%9E%81%E9%99%90.png" group-title="松视直播",JSTV极限电影台
+#EXTINF:-1 tvg-id="15" tvg-name="JSTV极限电影台" tvg-logo="https://fel.forxhr.top:2022/view.php/d19ef14c7bab60e31affb775e575ba69.png" group-title="松视直播",JSTV极限电影台
 http://183.92.4.163:4000/udp/228.0.0.202:6108
 #EXTINF:-1 tvg-id="16" tvg-name="香草BJ-3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="韩国BJ播",香草BJ-3
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8
