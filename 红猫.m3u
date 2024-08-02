@@ -8,7 +8,7 @@ http://183.92.4.163:4000/udp/228.0.0.156:7156
 #EXTINF:-1 tvg-id="4" tvg-name="松视4台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4.png" group-title="松视直播",松视4台
 http://183.92.4.163:4000/udp/228.0.0.143:7143
 #EXTINF:-1 tvg-id="5" tvg-name="彩虹e台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/%E5%BD%A9%E8%99%B9E.png" group-title="松视直播",彩虹e台
-https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202406/30/fdpqM-j8farAw?response-content-disposition=inline%3Bfilename%3Dccaih-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1722614399&Signature=7hXrHFFYm3CK%2BgmYhWn7jNheZxg%3D
+http://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202406/30/fdpqM-j8farAw?response-content-disposition=inline%3Bfilename%3Dccaih-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1722614399&Signature=7hXrHFFYm3CK%2BgmYhWn7jNheZxg%3D
 #EXTINF:-1 tvg-id="6" tvg-name="彩虹K台+" tvg-logo="https://fel.forxhr.top:2022/view.php/db651750c53828e1f044a81bccfc4d55.png" group-title="松视直播",彩虹K台
 http://183.92.4.163:4000/udp/228.0.0.17:6108
 #EXTINF:-1 tvg-id="7" tvg-name="彩虹电影" tvg-logo="https://fel.forxhr.top:2022/view.php/07a150c0b9dad5148c833cb90d7e9963.png." group-title="松视直播",彩虹电影
