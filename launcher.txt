@@ -1,0 +1,235 @@
+Command & Conquer: Red Alert 2TM
+
+LATE BREAKING NEWS FROM THE FRONT
+
+Copyright 2000 Electronic Arts Inc. All rights reserved.
+Westwood StudiosTM is an Electronic ArtsTM brand.
+
+-----------------------------------------------------------------------------
+
+Patch 1.006
+
+June 6th, 2001
+
+CHANGES
+
+Minor Quickmatch client bug fix.
+
+----------------------------------------------------------------------------- 
+
+
+Patch 1.005
+
+May 25th, 2001
+
+For latest news and updates visit WWW.WESTWOOD.COM
+
+
+-----------------------------------TOP SECRET--------------------------------
+
+Commander:
+
+Thanks for your continued participation in the war effort. We have been able 
+to make some modifications to your tactical display that should improve your 
+experiences on the battlefield.
+
+Good Luck.
+
+--President Michael Dugan
+
+-----------------------------------------------------------------------------
+
+
+
+
+GENERAL CHANGES 
+----------------
+
+Fixes:
+* Chrono IFV no longer loses its target when selecting a target further 
+  than his firing range. Now it moves within attack range and fires without 
+  losing focus at any moment.
+* Modified official maps are not transferred over Internet games. 
+* If a player disconnects 3 times in one game for durations more than 25 
+  seconds each, the game will finish and be awarded to the non-
+  disconnector at the 3rd time.  
+* If walls or other buildings block the Soviet Barracks exit, no unit is built 
+  even if the user has a Cloning Vat. The cost is refunded to the player. 
+* No other infantry units other than those with explosives can blow up 
+  buildings when joining to a Tanya command waypoint.
+
+
+
+WESTWOOD ONLINE CHANGES OR FEATURE ADDITIONS
+--------------------------------------------
+
+New Features
+* NAT (Network Address Translation) and Firewall support (Notice: See 
+  Firewall & NAT Support later on this document)
+
+Fixes
+* In 4 player Internet games,  Red Alert 2TM now behaves correctly and 
+  continues the match with the remaining players when the host loses 
+  connection.
+* The game now behaves correctly by continuing 4 player Internet 
+  games when the host gets disconnected from his ISP but is able to 
+  reconnect in time.
+* In-game chat,  whenever the user types a message longer than a 
+  screen width the text is transmitted and displayed properly.
+
+
+
+FIREWALL AND NAT SUPPORT
+------------------------
+
+Red Alert 2TM now automatically supports firewalls and network address 
+translating (NAT) while playing on Westwood Online.
+
+Note: in this document the term "firewall" is used to refer to both firewall
+and "network address translation" products.
+
+The following hardware/software was used in testing:
+
+  Hardware:
+  Linksys BEFSR11 / BEFSR14
+  Netgear RT311 / RT314
+  DLink DI-701 / DI-702
+  SonicWall Tele / Soho2
+
+  Software:
+  Windows 98 ICS (Internet Connection Sharing)
+  Sygate Home Networking 4.0
+  NAT32 Plus 1.4 (build 1-16-01)
+
+Even if your firewall was not listed, it is likely that it will work with this patch.  
+Many firewalls have the same behavior.  
+
+
+
+Automatic Firewall/NAT support
+------------------------------
+
+Red Alert 2TMnow automatically supports the above firewalls out of the box, 
+with no need to configure esoteric settings on the firewalls, such as port 
+forwarding, triggers, static mapping or any of the other complicated settings 
+that might otherwise be needed.
+
+Support is complete and transparent, including the following features:
+
+1. Supports hosting or joining any game when behind a firewall.
+2. Supports multiple players behind the same firewall; if you have more 
+   than one system on a home LAN sharing a cable modem, DSL or other 
+   connection you can now play against each other or against other 
+   players on the  Internet.
+
+Now when a game is launched on Westwood Online, you will see a 
+"Connecting To Other Players" dialogue box.  Here you will be able to see 
+your connectivity to the other players in the game.  If any player cannot 
+establish a connection with another, the game will not launch.  A message will 
+appear explaining who is having difficulty connecting.
+
+It is necessary on some firewalls to wait for packets to be received from other 
+players before trying to connect.  If your firewall has this behavior, you will 
+need to enable "Send Delay" in the network options.  From the main menu, 
+select "Options" then "Network".  Using this setting may cause connection 
+problems with other players if used unnecessarily.  Please refer to your 
+firewall documentation to see how your firewall operates. (note: Netgear 
+firewalls model numbers RT311 & RT314 were found to require this setting 
+during our testing)
+
+Note to firewall manufacturers: if your firewall products are not among the 
+tested firewalls we'd love to hear from you! Contact  
+gameresearch@westwood.com in Westwood Studios   
+
+
+
+Manual Firewall/NAT support
+---------------------------
+
+In addition to the automatic firewall support features listed above, we have 
+included an advanced setting for advanced users that can be used if all else 
+fails. From the main menu, select "Options" then "Network". Under the 
+"Internet Firewall Settings" section you'll see a "port number" option, which can 
+be used to instruct  Red Alert 2TM to always use the port specified here. You 
+should use a port number between 1024 and 65535. Every computer that you 
+want to play the game on should be given a different port number if they are 
+all behind the same firewall.
+To return to the automatic mode, remove the port number from the "port 
+number" edit box.
+
+If you specify a port for Red Alert 2TM to use then you will have to manually 
+configure your firewall with static IP and port forwarding to route packets to the 
+correct computer. Each firewalls configuration method is different so consult 
+your firewalls documentation for instructions on how to do this. You will 
+probably have to assign a static IP to each computer connecting to the firewall 
+otherwise the static forwarding rules may not work after restarting a computer 
+or firewall.
+
+
+
+Dual Network Cards in Windows 98
+--------------------------------
+
+A Windows 98 client can only have one gateway at a time. This means that if 
+you are running  Red Alert 2TM in a Windows 98 machine that has 2 or more   
+network cards you will need to get sure that the traffic is going through the 
+right one. The best way to do this is disabling all network cards except the one 
+who gives you the connectivity to the Internet/LAN. Otherwise you can have 
+connectivity problems when running Red Alert 2TM. 
+
+
+
+FINALALERT 2TM SUPPORT AND TIPS
+-----------------------------
+
+FinalAlert 2TM is a mission editor for Red Alert 2TM.  It can be downloaded from 
+www.westwood.com free of charge.  Westwood Studios and the original 
+FinalAlert developer have been hard at work adding and improving 
+functionality.  Here are some of the items we've been working on.
+
+* Framework mode is now included.
+
+* Allows raising and lowering of tile placement heights.
+
+* Randomizes land tiles within the editor to improve open area aesthetics 
+  in the map.  
+
+* Fixes bugs for raising/lowering terrain.  FinalAlert 2TM used to create 
+  map holes that are very difficult to detect and fix.  Framework mode 
+  helps with this a great deal also.
+
+* Includes an indication of current terrain height.
+	
+* Includes an indication of current ore/gem count on map.
+	
+* Includes Uninstall.
+	
+* Increased time allowed on Westwood Online to transfer maps between 
+  players.  Now up to 3 minutes.  
+	
+* Only allows FinalAlert 2TM map sharing in non-tourney games.
+	
+* Allows sharing of map names.
+
+* Includes random tree placement tool.
+
+* Optimizes the FinalAlert 2TM map load times, especially when there are 
+  lots of custom maps in the game folder.
+
+* Red Alert 2TM will not add starting spots to a FinalAlert 2TM map if it has 
+  2 or more predefined starting spots.
+
+* Red Alert 2TM now can now use maps created with FinalAlert 2TM in all 
+  game modes.
+
+* Allows map names to appear when using FinalAlert 2TM (User created) 
+  maps.
+
+Please note:  When a custom made map is transferred to a guest player, it will 
+not become available in the map listing until Red Alert 2TM is restarted.  
+Therefore, if more than one game is going to be set on a custom map, it is 
+recommended that the guest(s) quit the game after the first match (once the 
+map has been transferred).  Otherwise the map will be transferred every time 
+a new game is started.
+
+
