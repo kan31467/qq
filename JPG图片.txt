@@ -161,7 +161,7 @@
 🌸VBS💞,http://61.221.215.25:8800/hls/9/index.m3u8
 🌸亚洲武侠💞,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 🌸环球电视💞,http://zb.xzxwhcb.com:9999/hls/world.m3u8
- 💞台湾新闻🌸,#genre#
+💞台湾新闻🌸,#genre#
 🌸东森新闻💞,P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
 🌸中天新闻💞,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
 🌸民视新闻💞,P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
@@ -175,7 +175,7 @@
 🌸台视💞,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
 🌸公视💞,P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
 🌸中视💞,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
- 💞台湾综合🌸,#genre#
+💞台湾综合🌸,#genre#
 🌸三立综合💞,P2p://generationnexxxt.com:19806/a29710ab6188439f8cfaf83e5268ac06
 🌸靖天资讯💞,P2p://generationnexxxt.com:19806/f412c238a0594d74a72da81118a27f98
 🌸靖天综合💞,P2p://generationnexxxt.com:19806/9617767eac9b4ce792a24a442e821b13
@@ -211,7 +211,7 @@
 🌸TVBS欢乐💞,P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
 🌸纬来戏剧💞,P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
 🌸采昌影剧💞,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
- 💞台湾电影🌸,#genre#
+💞台湾电影🌸,#genre#
 🌸美亚电影💞,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
 🌸龙华电影💞,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
 🌸靖天电影💞,P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
@@ -243,7 +243,7 @@
 🌸港台31💞,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
 🌸港台32💞,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
 🌸HOY TV💞,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
-﻿🌸翡翠台💞,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+🌸翡翠台💞,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
 🌸TVB Plus💞,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 🌸TVB娱乐💞,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
 🌸无线新闻💞,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
@@ -252,7 +252,7 @@
 🌸ViuTV,💞P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
 🌸now新闻💞,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
 🌸香港国际💞,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
- 💞香港综合🌸,#genre#
+💞香港综合🌸,#genre#
 🌸戏曲台💞,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 🌸翡翠台💞,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
 🌸千禧经典💞,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
@@ -261,7 +261,7 @@
 🌸18台💞,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
 🌸HOY资讯💞,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 🌸Hands 💞,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
- 💞香港电影🌸,#genre#
+💞香港电影🌸,#genre#
 🌸美亚电影台💞,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 🌸粤语片台💞,P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
 🌸亚洲剧台💞,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
